@@ -8,7 +8,7 @@
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(135deg,rgba(255,255,255,0.3),rgba(255,255,255,0.8)),url(./img/pexels-mark-mccammon-1080721.jpg);
-
+    
 }
 .header{
     height: 70px;

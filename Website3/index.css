@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+
+}
+.banner{
+    height: 100vh;
+    width: 100%;
+    background:url(./img/pexels-pok-rie-2049422\ \(1\).jpg)
+}
+.header{
+    height: 70px;
+    line-height: 70px;
+    background:rgba(255, 255, 255, 0.05);
+}
+.header ul,span{
+    float: left;
+}
+.header span{
+    padding: 0px 40px;
+    font-size: 60px;
+    margin-left: 50px;
+    color: rgb(24, 24, 165);
+}
+.header button{
+    color: white;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10%;
+    padding: 5px 20px;
+    background:#02818a;
+    border-radius: 20px;
+    font-size: 17px;
+    border:1px #3498db solid;
+    
+}
+.header ul{
+    margin-left: 50px;
+}
+.header ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    list-style: none;
+}
+.header ul li a{
+    text-decoration: none;
+    color: white;
+}
