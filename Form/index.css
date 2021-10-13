@@ -4,6 +4,12 @@
 }
 .title1,.title2{
     padding:2px 15px 2px 15px;
+    text-transform: uppercase;
+   
+}
+.title1 h4,.title2 h4{
+    font-size: 20px;
+    margin: 5px 0 5px 0;
 }
 .form-group{
     border: 1px solid ;
